@@ -6,6 +6,8 @@ body {
     background-color: #F46524;
     font-family: Arial, Helvetica, sans-serif;
     height: 3900px;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 .bdy{
     margin-top: 50px;
@@ -32,7 +34,7 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
     color: #fffffc;
     margin-top: 760px;
-    margin-left: 1800px;
+    margin-left: 1500px;
 }
 iframe{
     border-radius: 20px;
